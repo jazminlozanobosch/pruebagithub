@@ -367,8 +367,8 @@ div .tablaHorarios{
 
 .infohorarios-tabla{
     margin: 50 px;
-    width: 30 fr;
-    height: 30 fr;
+    width: auto;
+    height: auto;
     background-image: to bottom purple orange fuchsia   ;
     transform: 50 px 50 px ;
 

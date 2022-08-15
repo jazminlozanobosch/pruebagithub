@@ -353,7 +353,26 @@ footer.footerdefinitivo{
     margin-top: 2rem;
 }
 
+/* pagina Talleres con transicion y animación*/
 
+div .tablaHorarios{
+
+    margin: 50 px;
+    width: 30 fr;
+    height: 30 fr;
+    background-image: to bottom purple orange fuchsia   ;
+    transform: 50 px 50 px ;
+
+}
+
+.infohorarios-tabla{
+    margin: 50 px;
+    width: 30 fr;
+    height: 30 fr;
+    background-image: to bottom purple orange fuchsia   ;
+    transform: 50 px 50 px ;
+
+}
 
 
 
